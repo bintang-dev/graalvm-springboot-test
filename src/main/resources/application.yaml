@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:30034/test_graalvm
+    username: postgres
+    password: I7bcfi5aOC
+    ddl-auto: update
